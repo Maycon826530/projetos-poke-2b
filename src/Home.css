@@ -1,7 +1,7 @@
-div {
+.home {
     display: flex;
-    flex-wrap: nowrap;
-    flex-direction: column;
+    flex-wrap: column;
+    flex-direction: row;
     background-color: red;
     width: 500px;
     height: 500px;
